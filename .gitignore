@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+*.pyc
+data/chroma_db/
+data/processed_results.json
+data/sample_docs/*
+!data/sample_docs/.gitkeep
+.env
+*.exe
