@@ -7,3 +7,7 @@ data/sample_docs/*
 !data/sample_docs/.gitkeep
 .env
 *.exe
+.terraform/
+*.tfstate
+*.tfstate.backup
+.terraform.lock.hcl
